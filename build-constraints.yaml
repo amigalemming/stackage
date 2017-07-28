@@ -120,7 +120,6 @@ packages:
         - unsafe
         - utility-ht
         - xml-basic
-        - youtube
         - prelude-compat
 
         - fft
